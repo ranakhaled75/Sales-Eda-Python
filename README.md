@@ -54,6 +54,6 @@ Exploratory Analysis:
 
 Data Visualization:
 
-using Line chart.
+using Bar chart.
 
 Custom color schemes and annotations to highlight insights
